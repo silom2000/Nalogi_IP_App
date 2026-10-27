@@ -1,0 +1,10 @@
+*.exe
+*.zip
+*.rar
+*.7z
+bin/
+obj/
+dist/
+.vs/
+.DS_Store
+Thumbs.db
